@@ -1,0 +1,32 @@
+{
+    "name": "Card Game",
+    "nbCard": 52,
+    "cartes": {
+        "symboles": {
+            "coeur": {
+                "couleur": "rouge",
+                "chiffres": ["un", "deux", "trois", "quatre", "cinq", "six", "sept", "huit", "neuf", "dix"],
+                "numéros": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+                "têtes": ["Valet", "Dame", "Roi"]
+            },
+            "carreau": {
+                "couleur": "rouge",
+                "chiffres": ["un", "deux", "trois", "quatre", "cinq", "six", "sept", "huit", "neuf", "dix"],
+                "numéros": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+                "têtes": ["Valet", "Dame", "Roi"]
+            },
+            "pique": {
+                "couleur": "noir",
+                "chiffres": ["un", "deux", "trois", "quatre", "cinq", "six", "sept", "huit", "neuf", "dix"],
+                "numéros": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+                "têtes": ["Valet", "Dame", "Roi"]
+            },
+            "trêfle": {
+                "couleur": "noir",
+                "chiffres": ["un", "deux", "trois", "quatre", "cinq", "six", "sept", "huit", "neuf", "dix"],
+                "numéros": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+                "têtes": ["Valet", "Dame", "Roi"]
+            }
+        }
+    }
+}
